@@ -1,5 +1,6 @@
 # hackerrank
 Repository for hackerrank solutions
 
-Day 1: Say "Hello, World!" with Python
-Day 2: Python If-Else
+Day 1: Say "Hello, World!" with Python   
+Day 2: Python If-Else   
+Day 3: Arithmetic Operators
