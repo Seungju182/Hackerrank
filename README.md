@@ -13,3 +13,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Loops](https://www.hackerrank.com/challenges/python-loops/problem)|[loops.py](python/loops.py)|Introduction|Easy|Feb 17 2021<br>(Day 5)|
 [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|[write-a-function.py](python/write-a-function.py)|Introduction|Medium|Feb 18 2021<br>(Day 6)|
 [Print Function](https://www.hackerrank.com/challenges/python-print/problem)|[print-function.py](python/print-function.py)|Introduction|Easy|Feb 19 2021<br>(Day 7)|
+[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[list-comprehensions.py](python/list-comprehensions.py)|Basic Data Types|Easy|Feb 20 2021<br>(Day 8)|
