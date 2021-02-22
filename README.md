@@ -15,3 +15,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Print Function](https://www.hackerrank.com/challenges/python-print/problem)|[print-function.py](python/print-function.py)|Introduction|Easy|Feb 19 2021<br>(Day 7)|
 [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[list-comprehensions.py](python/list-comprehensions.py)|Basic Data Types|Easy|Feb 20 2021<br>(Day 8)|
 [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|[find-the-runner-up-score.py](python/find-the-runner-up-score.py)|Basic Data Types|Easy|Feb 21 2021<br>(Day 9)|
+[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)|[nested-list.py](python/nested-list.py)|Basic Data Types|Easy|Feb 22 2021<br>(Day 10)|
