@@ -16,3 +16,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[list-comprehensions.py](python/list-comprehensions.py)|Basic Data Types|Easy|Feb 20 2021<br>(Day 8)|
 [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|[find-the-runner-up-score.py](python/find-the-runner-up-score.py)|Basic Data Types|Easy|Feb 21 2021<br>(Day 9)|
 [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)|[nested-list.py](python/nested-list.py)|Basic Data Types|Easy|Feb 22 2021<br>(Day 10)|
+[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[finding-the-percentage.py](python/finding-the-percentage.py)|Basic Data Types|Easy|Feb 23 2021<br>(Day 11)|
