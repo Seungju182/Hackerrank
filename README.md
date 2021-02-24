@@ -18,3 +18,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)|[nested-list.py](python/nested-list.py)|Basic Data Types|Easy|Feb 22 2021<br>(Day 10)|
 [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[finding-the-percentage.py](python/finding-the-percentage.py)|Basic Data Types|Easy|Feb 23 2021<br>(Day 11)|
 [Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[python-lists.py](python/python-lists.py)|Basic Data Types|Easy|Feb 24 2021<br>(Day 12)|
+[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[python-tuples.py](python/python-tuples.py)|Basic Data Types|Easy|Feb 25 2021<br>(Day 13)|
