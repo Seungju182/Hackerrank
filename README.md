@@ -19,3 +19,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[finding-the-percentage.py](python/finding-the-percentage.py)|Basic Data Types|Easy|Feb 23 2021<br>(Day 11)|
 [Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[python-lists.py](python/python-lists.py)|Basic Data Types|Easy|Feb 24 2021<br>(Day 12)|
 [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[python-tuples.py](python/python-tuples.py)|Basic Data Types|Easy|Feb 25 2021<br>(Day 13)|
+[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[swap-case.py](python/swap-case.py)|Strings|Easy|Feb 26 2021<br>(Day 14)|
