@@ -20,3 +20,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[python-lists.py](python/python-lists.py)|Basic Data Types|Easy|Feb 24 2021<br>(Day 12)|
 [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[python-tuples.py](python/python-tuples.py)|Basic Data Types|Easy|Feb 25 2021<br>(Day 13)|
 [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[swap-case.py](python/swap-case.py)|Strings|Easy|Feb 26 2021<br>(Day 14)|
+[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[python-string-split-and-join.py](python/python-string-split-and-join.py)|Strings|Easy|Feb 27 2021<br>(Day 15)|
