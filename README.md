@@ -21,3 +21,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[python-tuples.py](python/python-tuples.py)|Basic Data Types|Easy|Feb 25 2021<br>(Day 13)|
 [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|[swap-case.py](python/swap-case.py)|Strings|Easy|Feb 26 2021<br>(Day 14)|
 [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[python-string-split-and-join.py](python/python-string-split-and-join.py)|Strings|Easy|Feb 27 2021<br>(Day 15)|
+[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[whats-your-name.py](python/whats-your-name.py)|Strings|Easy|Feb 28 2021<br>(Day 16)|
