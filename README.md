@@ -23,3 +23,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[python-string-split-and-join.py](python/python-string-split-and-join.py)|Strings|Easy|Feb 27 2021<br>(Day 15)|
 [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[whats-your-name.py](python/whats-your-name.py)|Strings|Easy|Feb 28 2021<br>(Day 16)|
 [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[python-mutations.py](python/python-mutations.py)|Strings|Easy|Mar 1 2021<br>(Day 17)|
+[Find a String](https://www.hackerrank.com/challenges/find-a-string/problem)|[find-a-stirng.py](python/find-a-string.py)|Strings|Easy|Mar 2 2021<br>(Day 18)|
