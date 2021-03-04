@@ -25,3 +25,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|[python-mutations.py](python/python-mutations.py)|Strings|Easy|Mar 1 2021<br>(Day 17)|
 [Find a String](https://www.hackerrank.com/challenges/find-a-string/problem)|[find-a-stirng.py](python/find-a-string.py)|Strings|Easy|Mar 2 2021<br>(Day 18)|
 [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[string-validators.py](python/string-validators.py)|Strings|Easy|Mar 3 2021<br>(Day 19)|
+[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[text-alighment.py](python/text-alignment.py)|Strings|Easy|Mar 4 2021<br>(Day 20)|
