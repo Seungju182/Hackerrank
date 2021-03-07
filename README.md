@@ -28,3 +28,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[text-alighment.py](python/text-alignment.py)|Strings|Easy|Mar 4 2021<br>(Day 20)|
 [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|[text-wrap.py](python/text-wrap.py)|Strings|Easy|Mar 5 2021<br>(Day 21)|
 [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[designer-door-mat.py](python/designer-door-mat.py)|Strings|Easy|Mar 6 2021<br>(Day 22)|
+[String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)|[python-string-formatting.py](python/python-string-formatting.py)|Strings|Easy|Mar 7 2021<br>(Day 22)|
