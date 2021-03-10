@@ -31,3 +31,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)|[python-string-formatting.py](python/python-string-formatting.py)|Strings|Easy|Mar 7 2021<br>(Day 23)|
 [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)|[alphabet-rangolio.py](python/alphabet-rangoli.py)|Strings|Easy|Mar 8 2021<br>(Day 24)|
 [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)|[capitalize.py](python/capitalize.py)|Strings|Easy|Mar 9 2021<br>(Day 25)|
+[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)|[the-minion-game.py](python/the-minion-game.py)|Strings|Medium|Mar 10 2021<br>(Day 26)|
