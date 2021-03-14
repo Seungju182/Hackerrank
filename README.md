@@ -35,3 +35,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)|[merge-the-tools.py](python/merge-the-tools.py)|Strings|Medium|Mar 11 2021<br>(Day 27)|
 [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)|[itertools-product.py](python/itertools-product.py)|Itertools|Easy|Mar 12 2021<br>(Day 28)|
 [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)|[collections-counter.py](python/collections-counter.py)|Collections|Easy|Mar 13 2021<br>(Day 29)|
+[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[itertools-permutations.py](python/itertools-permutations.py)|Itertools|Easy|Mar 14 2021<br>(Day 30)|
