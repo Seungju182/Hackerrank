@@ -38,4 +38,5 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[itertools-permutations.py](python/itertools-permutations.py)|Itertools|Easy|Mar 14 2021<br>(Day 30)|
 [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)|[polar-coordinates.py](python/polar-coordinates.py)|Math|Easy|Mar 15 2021<br>(Day 31)|
 [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|[py-introduction-to-sets.py](python/py-introduction-to-sets.py)|Sets|Easy|Mar 16 2021<br>(Day 32)|
-[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)|[defaultdict-tutorial.py](python/defualtdict-tutorial.py)|Collections|Easy|Mar 17 2021<br>(Day 33)|
+[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)|[defaultdict-tutorial.py](python/defaultdict-tutorial.py)|Collections|Easy|Mar 17 2021<br>(Day 33)|
+[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)|[calendar-module.py](python/calendar-module.py)|Date and Time|Easy|Mar 18 2021<br>(Day 34)|
