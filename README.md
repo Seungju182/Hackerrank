@@ -40,3 +40,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|[py-introduction-to-sets.py](python/py-introduction-to-sets.py)|Sets|Easy|Mar 16 2021<br>(Day 32)|
 [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)|[defaultdict-tutorial.py](python/defaultdict-tutorial.py)|Collections|Easy|Mar 17 2021<br>(Day 33)|
 [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)|[calendar-module.py](python/calendar-module.py)|Date and Time|Easy|Mar 18 2021<br>(Day 34)|
+[Exceptions](https://www.hackerrank.com/challenges/exceptions/problem)|[exceptions.py](python/exceptions.py)|Errors and Exceptions|Easy|Mar 19 2021<br>(Day 35)|
