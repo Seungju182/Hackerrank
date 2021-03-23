@@ -44,3 +44,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)|[py-collections-namedtuple.py](python/py-collections-namedtuple.py)|Collections|Easy|Mar 20 2021<br>(Day 36)|
 [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)|[python-time-delta.py](python/python-time-delta.py)|Date and Time|Medium|Mar 21 2021<br>(Day 37)|
 [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)|[find-angle.py](python/find-angle.py)|Math|Medium|Mar 22 2021<br>(Day 38)|
+[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[no-idea.py](python/no-idea.py)|Sets|Medium|Mar 23 2021<br>(Day 39)|
