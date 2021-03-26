@@ -47,3 +47,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[no-idea.py](python/no-idea.py)|Sets|Medium|Mar 23 2021<br>(Day 39)|
 [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)|[py-collections-ordereddict.py](python/py-collections-ordereddict.py)|Collections|Easy|Mar 24 2021<br>(Day 40)|
 [Systematic Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)|[systematic-difference.py](python/systematic-difference.py)|Sets|Easy|Mar 25 2021<br>(Day 41)|
+[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)|[itertools-combinations.py](python/itertools-combinations.py)|itertools|Easy|Mar 26 2021<br>(Day 42)|
