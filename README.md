@@ -50,3 +50,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)|[itertools-combinations.py](python/itertools-combinations.py)|itertools|Easy|Mar 26 2021<br>(Day 42)|
 [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem)|[incorrect-regex.py](python/incorrect-regex.py)|Errors and Exceptions|Easy|Mar 27 2021<br>(Day 43)|
 [Set.add()](https://www.hackerrank.com/challenges/py-set-add/problem)|[py-set-add.py](python/py-set-add.py)|Sets|Easy|Mar 28 2021<br>(Day 44)|
+[itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)|[itertools-combinations-with-replacement.py](python/itertools-combinations-with-replacement.py)|itertools|Easy|Mar 29 2021<br>(Day 45)|
