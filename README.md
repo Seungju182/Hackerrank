@@ -53,3 +53,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)|[itertools-combinations-with-replacement.py](python/itertools-combinations-with-replacement.py)|itertools|Easy|Mar 29 2021<br>(Day 45)|
 [Word Order](https://www.hackerrank.com/challenges/word-order/problem)|[word-order.py](python/word-order.py)|Collections|Medium|Mar 30 2021<br>(Day 46)|
 [Set .discard(), .remove(), & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[py-set-discard-remove-pop.py](python/py-set-discard-remove-pop.py)|Sets|Easy|Mar 31 2021<br>(Day 47)|
+[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)|[py-collections-deque.py](python/py-collections-deque.py)|Collections|Easy|Apr 1 2021<br>(Day 48)|
