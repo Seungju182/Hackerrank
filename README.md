@@ -54,3 +54,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Word Order](https://www.hackerrank.com/challenges/word-order/problem)|[word-order.py](python/word-order.py)|Collections|Medium|Mar 30 2021<br>(Day 46)|
 [Set .discard(), .remove(), & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)|[py-set-discard-remove-pop.py](python/py-set-discard-remove-pop.py)|Sets|Easy|Mar 31 2021<br>(Day 47)|
 [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)|[py-collections-deque.py](python/py-collections-deque.py)|Collections|Easy|Apr 1 2021<br>(Day 48)|
+[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)|[compress-the-string.py](python/compress-the-string.py)|Itertools|Medium|Apr 2 2021<br>(Day 49)|
