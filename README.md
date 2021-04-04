@@ -56,3 +56,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)|[py-collections-deque.py](python/py-collections-deque.py)|Collections|Easy|Apr 1 2021<br>(Day 48)|
 [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)|[compress-the-string.py](python/compress-the-string.py)|Itertools|Medium|Apr 2 2021<br>(Day 49)|
 [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)|[most-commons.py](python/most-commons.py)|Collections|Medium|Apr 3 2021<br>(Day 50)|
+[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)|[py-set-union.py](python/py-set-union.py)|Sets|Easy|Apr 4 2021<br>(Day 51)|
