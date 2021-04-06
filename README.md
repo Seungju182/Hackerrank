@@ -58,3 +58,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)|[most-commons.py](python/most-commons.py)|Collections|Medium|Apr 3 2021<br>(Day 50)|
 [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)|[py-set-union.py](python/py-set-union.py)|Sets|Easy|Apr 4 2021<br>(Day 51)|
 [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)|[piling-up.py](python/piling-up.py)|Collections|Medium|Apr 5 2021<br>(Day 52)|
+[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)|[triangle-quest-2.py](python/triangle-quest-2.py)|Math|Medium|Apr 5 2021<br>(Day 53)|
