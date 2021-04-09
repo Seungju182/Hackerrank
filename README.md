@@ -61,3 +61,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)|[triangle-quest-2.py](python/triangle-quest-2.py)|Math|Medium|Apr 6 2021<br>(Day 53)|
 [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)|[iterables-and-iterators.py](python/iterables-and-iterators.py)|Itertools|Medium|Apr 7 2021<br>(Day 54)|
 [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)|[py-set-intersection-operation.py](python/py-set-intersection-operation.py)|Set|Easy|Apr 8 2021<br>(Day 55)|
+[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)|[python-mod-divmod.py](python/python-mod-divmod.py)|Math|Easy|Apr 9 2021<br>(Day 56)|
