@@ -62,3 +62,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)|[iterables-and-iterators.py](python/iterables-and-iterators.py)|Itertools|Medium|Apr 7 2021<br>(Day 54)|
 [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)|[py-set-intersection-operation.py](python/py-set-intersection-operation.py)|Set|Easy|Apr 8 2021<br>(Day 55)|
 [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)|[python-mod-divmod.py](python/python-mod-divmod.py)|Math|Easy|Apr 9 2021<br>(Day 56)|
+[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)|[python-power-mod-power.py](python/python-power-mod-power.py)|Math|Easy|Apr 10 2021<br>(Day 57)|
