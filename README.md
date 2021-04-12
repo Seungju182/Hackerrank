@@ -64,3 +64,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)|[python-mod-divmod.py](python/python-mod-divmod.py)|Math|Easy|Apr 9 2021<br>(Day 56)|
 [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)|[python-power-mod-power.py](python/python-power-mod-power.py)|Math|Easy|Apr 10 2021<br>(Day 57)|
 [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)|[maximize-it.py](python/maximize-it.py)|Itertools|Hard|Apr 11 2021<br>(Day 58)|
+[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)|[py-set-difference-operation.py](python/py-set-difference-operation.py)|Sets|Easy|Apr 12 2021<br>(Day 59)|
