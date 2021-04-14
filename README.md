@@ -67,3 +67,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)|[py-set-difference-operation.py](python/py-set-difference-operation.py)|Sets|Easy|Apr 12 2021<br>(Day 59)|
 [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)|[python-integers-come-in-all-sizes.py](python/python-integers-come-in-all-sizes.py)|Math|Easy|Apr 13 2021<br>(Day 60)|
 [Set .systematic_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)|[py-set-symmetric-difference-operation.py](python/py-set-symmetric-difference-operation.py)|Sets|Easy|Apr 14 2021<br>(Day 61)|
+[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)|[py-set-mutations.py](python/py-set-mutations.py)|Sets|Easy|Apr 15 2021<br>(Day 62)|
