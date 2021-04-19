@@ -71,3 +71,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|[python-quest-1.py](python/python-quest-1.py)|Math|Medium|Apr 16 2021<br>(Day 63)|
 [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[py-the-captains-room.py](python/py-the-captains-room.py)|Sets|Easy|Apr 17 2021<br>(Day 64)|
 [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[py-check-subset.py](python/py-check-subset.py)|Sets|Easy|Apr 18 2021<br>(Day 65)|
+[Check Strict Subset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[py-check-strict-superset.py](python/py-check-strict-superset.py)|Sets|Easy|Apr 19 2021<br>(Day 66)|
