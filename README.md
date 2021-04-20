@@ -72,3 +72,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[py-the-captains-room.py](python/py-the-captains-room.py)|Sets|Easy|Apr 17 2021<br>(Day 64)|
 [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[py-check-subset.py](python/py-check-subset.py)|Sets|Easy|Apr 18 2021<br>(Day 65)|
 [Check Strict Subset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[py-check-strict-superset.py](python/py-check-strict-superset.py)|Sets|Easy|Apr 19 2021<br>(Day 66)|
+[Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)|[class-1-dealing-with-complex-numbers.py](python/class-1-dealing-with-complex-numbers.py)|Classes|Medium|Apr 20 2021<br>(Day 67)|
