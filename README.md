@@ -76,3 +76,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)|[class-2-find-the-torsional-angle.py](python/class-2-find-the-torsional-angle.py)|Classes|Easy|Apr 21 2021<br>(Day 68)|
 [Zipped!](https://www.hackerrank.com/challenges/zipped/problem)|[zipped.py](python/zipped.py)|Built-Ins|Easy|Apr 22 2021<br>(Day 69)|
 [Input()](https://www.hackerrank.com/challenges/input/problem)|[input.py](python/input.py)|Built-Ins|Easy|Apr 23 2021<br>(Day 70)|
+[Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)|[python-eval.py](python/python-eval.py)|Built-Ins|Easy|Apr 24 2021<br>(Day 71)|
