@@ -78,3 +78,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Input()](https://www.hackerrank.com/challenges/input/problem)|[input.py](python/input.py)|Built-Ins|Easy|Apr 23 2021<br>(Day 70)|
 [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)|[python-eval.py](python/python-eval.py)|Built-Ins|Easy|Apr 24 2021<br>(Day 71)|
 [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)|[python-sort-sort.py](python/python-sort-sort.py)|Built-Ins|Medium|Apr 25 2021<br>(Day 72)|
+[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)|[any-or-all.py](python/any-or-all.py)|Built-Ins|Easy|Apr 26 2021<br>(Day 73)|
