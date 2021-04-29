@@ -81,3 +81,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)|[any-or-all.py](python/any-or-all.py)|Built-Ins|Easy|Apr 26 2021<br>(Day 73)|
 [ginortS](https://www.hackerrank.com/challenges/ginorts/problem)|[ginorts.py](python/ginorts.py)|Built-Ins|Medium|Apr 27 2021<br>(Day 74)|
 [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)|[introduction-to-regex.py](python/introduction-to-regex.py)|Regex and Parsing|Easy|Apr 28 2021<br>(Day 75)|
+[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[map-and-lambda-expression.py](python/map-and-lambda-expression.py)|Python Functionals|Easy|Apr 29 2021<br>(Day 76)|
