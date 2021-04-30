@@ -82,3 +82,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [ginortS](https://www.hackerrank.com/challenges/ginorts/problem)|[ginorts.py](python/ginorts.py)|Built-Ins|Medium|Apr 27 2021<br>(Day 74)|
 [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)|[introduction-to-regex.py](python/introduction-to-regex.py)|Regex and Parsing|Easy|Apr 28 2021<br>(Day 75)|
 [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[map-and-lambda-expression.py](python/map-and-lambda-expression.py)|Python Functionals|Easy|Apr 29 2021<br>(Day 76)|
+[Re.split()](https://www.hackerrank.com/challenges/re-split/problem)|[re-split.py](python/re-split.py)|Regex and Parsing|Easy|Apr 30 2021<br>(Day 77)|
