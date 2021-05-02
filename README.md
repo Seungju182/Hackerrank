@@ -85,3 +85,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Re.split()](https://www.hackerrank.com/challenges/re-split/problem)|[re-split.py](python/re-split.py)|Regex and Parsing|Easy|Apr 30 2021<br>(Day 77)|
 [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)|[validate-list-of-email-address-with-filter.py](python/validate-list-of-email-address-with-filter.py)|Python Functionals|Medium|May 1 2021<br>(Day 78)|
 [Group(), Groups()&Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)|[re-group-groups.py](python/re-group-groups.py)|Regex and Parsing|Easy|May 2 2021<br>(Day 79)|
+[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)|[reduce-function.py](python/reduce-function.py)|Python Functionals|Medium|May 3 2021<br>(Day 80)|
