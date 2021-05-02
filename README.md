@@ -84,3 +84,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[map-and-lambda-expression.py](python/map-and-lambda-expression.py)|Python Functionals|Easy|Apr 29 2021<br>(Day 76)|
 [Re.split()](https://www.hackerrank.com/challenges/re-split/problem)|[re-split.py](python/re-split.py)|Regex and Parsing|Easy|Apr 30 2021<br>(Day 77)|
 [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)|[validate-list-of-email-address-with-filter.py](python/validate-list-of-email-address-with-filter.py)|Python Functionals|Medium|May 1 2021<br>(Day 78)|
+[Group(), Groups()&Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)|[re-group-groups.py](python/re-group-groups.py)|Regex and Parsing|Easy|May 2 2021<br>(Day 79)|
