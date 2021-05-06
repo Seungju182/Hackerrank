@@ -88,3 +88,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)|[reduce-function.py](python/reduce-function.py)|Python Functionals|Medium|May 3 2021<br>(Day 80)|
 [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)|[re-findall-re-finditer.py](python/re-findall-re-finditer.py)|Regex and Parsing|Easy|May 4 2021<br>(Day 81)|
 [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)|[re-start-re-end.py](python/re-start-re-end.py)|Regex and Parsing|Easy|May 5 2021<br>(Day 82)|
+[Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)|[re-sub-regex-substitution.py](python/re-sub-regex-substitution.py)|Regex and Parsing|Medium|May 6 2021<br>(Day 83)|
