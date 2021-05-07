@@ -89,3 +89,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)|[re-findall-re-finditer.py](python/re-findall-re-finditer.py)|Regex and Parsing|Easy|May 4 2021<br>(Day 81)|
 [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)|[re-start-re-end.py](python/re-start-re-end.py)|Regex and Parsing|Easy|May 5 2021<br>(Day 82)|
 [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)|[re-sub-regex-substitution.py](python/re-sub-regex-substitution.py)|Regex and Parsing|Medium|May 6 2021<br>(Day 83)|
+[Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)|[validate-a-roman-number.py](python/validate-a-roman-number.py)|Regex and Parsing|Medium|May 7 2021<br>(Day 84)|
