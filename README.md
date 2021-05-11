@@ -93,3 +93,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)|[validating-the-phone-number.py](python/validating-the-phone-number.py)|Regex and Parsing|Easy|May 8 2021<br>(Day 85)|
 [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)|[validating-named-email-addresses.py](python/validating-named-email-addresses.py)|Regex and Parsing|Easy|May 9 2021<br>(Day 86)|
 [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem)|[hex-color-code.py](python/hex-color-code.py)|Regex and Parsing|Easy|May 10 2021<br>(Day 87)|
+[HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1/problem)|[html-parser-part-1.py](python/html-parser-part-1.py)|Regex and Parsing|Easy|May 11 2021<br>(Day 88)|
