@@ -95,3 +95,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem)|[hex-color-code.py](python/hex-color-code.py)|Regex and Parsing|Easy|May 10 2021<br>(Day 87)|
 [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1/problem)|[html-parser-part-1.py](python/html-parser-part-1.py)|Regex and Parsing|Easy|May 11 2021<br>(Day 88)|
 [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem)|[html-parser-part-2.py](python/html-parser-part-2.py)|Regex and Parsing|Easy|May 12 2021<br>(Day 89)|
+[Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)|[detect-html-tags-attributes-and-attribute-values.py](python/detect-html-tags-attributes-and-attribute-values.py)|Regex and Parsing|Easy|May 13 2021<br>(Day 90)|
