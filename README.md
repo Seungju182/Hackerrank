@@ -97,3 +97,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem)|[html-parser-part-2.py](python/html-parser-part-2.py)|Regex and Parsing|Easy|May 12 2021<br>(Day 89)|
 [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)|[detect-html-tags-attributes-and-attribute-values.py](python/detect-html-tags-attributes-and-attribute-values.py)|Regex and Parsing|Easy|May 13 2021<br>(Day 90)|
 [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)|[xml-1-find-the-score.py](python/xml-1-find-the-score.py)|XML|Easy|May 14 2021<br>(Day 91)|
+[Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem)|[validating-uid.py](python/validating-uid.py)|Regex and Parsing|Easy|May 15 2021<br>(Day 92)|
