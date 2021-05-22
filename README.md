@@ -104,3 +104,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode/problem)|[validating-postalcode.py](python/validating-postalcode.py)|Regex and Parsing|Hard|May 19 2021<br>(Day 96)|
 [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem)|[decorators-2-name-directory.py](python/decorators-2-name-directory.py)|Closures and Decorators|Easy|May 20 2021<br>(Day 97)|
 [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem)|[matrix-script.py](python/matrix-script.py)|Regex and Parsing|Hard|May 21 2021<br>(Day 98)|
+[Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[words-score.py](python/words-score.py)|Debugging|Medium|May 22 2021<br>(Day 99)|
