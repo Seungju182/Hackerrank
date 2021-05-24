@@ -106,3 +106,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem)|[matrix-script.py](python/matrix-script.py)|Regex and Parsing|Hard|May 21 2021<br>(Day 98)|
 [Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[words-score.py](python/words-score.py)|Debugging|Medium|May 22 2021<br>(Day 99)|
 [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem)|[np-arrays.py](python/np-arrays.py)|Numpy|Easy|May 23 2021<br>(Day 100)|
+[Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)|[np-shape-reshape.py](python/np-shape-reshape.py)|Numpy|Easy|May 24 2021<br>(Day 101)|
