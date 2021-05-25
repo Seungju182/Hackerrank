@@ -107,3 +107,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[words-score.py](python/words-score.py)|Debugging|Medium|May 22 2021<br>(Day 99)|
 [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem)|[np-arrays.py](python/np-arrays.py)|Numpy|Easy|May 23 2021<br>(Day 100)|
 [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)|[np-shape-reshape.py](python/np-shape-reshape.py)|Numpy|Easy|May 24 2021<br>(Day 101)|
+[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)|[default-arguments.py](python/default-arguments.py)|Debugging|Medium|May 25 2021<br>(Day 102)|
