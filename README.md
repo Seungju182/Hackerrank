@@ -111,3 +111,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)|[np-transpose-and-flatten.py](python/np-transpose-and-flatten.py)|Numpy|Easy|May 26 2021<br>(Day 103)|
 [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)|[np-concatenate.py](python/np-concatenate.py)|Numpy|Easy|May 27 2021<br>(Day 104)|
 [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)|[np-zeros-and-ones.py](python/np-zeros-and-ones.py)|Numpy|Easy|May 28 2021<br>(Day 105)|
+[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)|[np-eye-and-identity.py](python/np-eye-and-identity.py)|Numpy|Easy|May 29 2021<br>(Day 106)|
