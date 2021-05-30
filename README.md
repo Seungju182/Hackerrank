@@ -112,3 +112,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)|[np-concatenate.py](python/np-concatenate.py)|Numpy|Easy|May 27 2021<br>(Day 104)|
 [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)|[np-zeros-and-ones.py](python/np-zeros-and-ones.py)|Numpy|Easy|May 28 2021<br>(Day 105)|
 [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)|[np-eye-and-identity.py](python/np-eye-and-identity.py)|Numpy|Easy|May 29 2021<br>(Day 106)|
+[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)|[np-array-mathematics.py](python/np-array-mathematics.py)|Numpy|Easy|May 30 2021<br>(Day 107)|
