@@ -113,3 +113,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)|[np-zeros-and-ones.py](python/np-zeros-and-ones.py)|Numpy|Easy|May 28 2021<br>(Day 105)|
 [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)|[np-eye-and-identity.py](python/np-eye-and-identity.py)|Numpy|Easy|May 29 2021<br>(Day 106)|
 [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)|[np-array-mathematics.py](python/np-array-mathematics.py)|Numpy|Easy|May 30 2021<br>(Day 107)|
+[Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)|[floor-ceil-and-rint.py](python/floor-ceil-and-rint.py)|Numpy|Easy|May 31 2021<br>(Day 108)|
