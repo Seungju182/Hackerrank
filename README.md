@@ -115,3 +115,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)|[np-array-mathematics.py](python/np-array-mathematics.py)|Numpy|Easy|May 30 2021<br>(Day 107)|
 [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)|[floor-ceil-and-rint.py](python/floor-ceil-and-rint.py)|Numpy|Easy|May 31 2021<br>(Day 108)|
 [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)|[np-sum-and-prod.py](python/np-sum-and-prod.py)|Numpy|Easy|Jun 1 2021<br>(Day 109)|
+[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)|[np-min-and-max.py](python/np-min-and-max.py)|Numpy|Easy|Jun 2 2021<br>(Day 110)|
