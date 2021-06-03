@@ -116,3 +116,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)|[floor-ceil-and-rint.py](python/floor-ceil-and-rint.py)|Numpy|Easy|May 31 2021<br>(Day 108)|
 [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)|[np-sum-and-prod.py](python/np-sum-and-prod.py)|Numpy|Easy|Jun 1 2021<br>(Day 109)|
 [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)|[np-min-and-max.py](python/np-min-and-max.py)|Numpy|Easy|Jun 2 2021<br>(Day 110)|
+[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)|[np-mean-var-and-std.py](python/np-mean-var-and-std.py)|Numpy|Easy|Jun 3 2021<br>(Day 111)|
