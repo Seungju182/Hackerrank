@@ -118,3 +118,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)|[np-min-and-max.py](python/np-min-and-max.py)|Numpy|Easy|Jun 2 2021<br>(Day 110)|
 [Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)|[np-mean-var-and-std.py](python/np-mean-var-and-std.py)|Numpy|Easy|Jun 3 2021<br>(Day 111)|
 [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)|[np-dot-and-cross.py](python/np-dot-and-cross.py)|Numpy|Easy|Jun 4 2021<br>(Day 112)|
+[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)|[np-inner-and-outer.py](python/np-inner-and-outer.py)|Numpy|Easy|Jun 5 2021<br>(Day 113)|
