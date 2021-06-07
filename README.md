@@ -120,3 +120,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)|[np-dot-and-cross.py](python/np-dot-and-cross.py)|Numpy|Easy|Jun 4 2021<br>(Day 112)|
 [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)|[np-inner-and-outer.py](python/np-inner-and-outer.py)|Numpy|Easy|Jun 5 2021<br>(Day 113)|
 [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)|[np-polynomials.py](python/np-polynomials.py)|Numpy|Easy|Jun 6 2021<br>(Day 114)|
+[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)|[np-linear-algebra.py](python/np-linear-algebra.py)|Numpy|Easy|Jun 7 2021<br>(Day 115)|
