@@ -120,4 +120,11 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)|[np-dot-and-cross.py](python/np-dot-and-cross.py)|Numpy|Easy|Jun 4 2021<br>(Day 112)|
 [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)|[np-inner-and-outer.py](python/np-inner-and-outer.py)|Numpy|Easy|Jun 5 2021<br>(Day 113)|
 [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)|[np-polynomials.py](python/np-polynomials.py)|Numpy|Easy|Jun 6 2021<br>(Day 114)|
-[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)|[np-linear-algebra.py](python/np-linear-algebra.py)|Numpy|Easy|Jun 7 2021<br>(Day 115)|
+[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)|[np-linear-algebra.py](python/np-linear-algebra.py)|Numpy|Easy|Jun 7 2021<br>(Day 115)|   
+
+
+# Algorithms
+| Challenge | Solution | Subdomain | Difficulty | Submission Date |
+|:---------:|:----------:|:---------:|:--------:|:--------:|
+[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[solve-me-first.py](algorithms/solve-me-first.py)|Warmup|Easy|Jun 8 2021<br>(Day 116)|
+[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[plus-minus.py](algorithms/plus-minus.py)|Warmup|Easy|Jun 9 2021<br>(Day 117)|
