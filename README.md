@@ -128,3 +128,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 |:---------:|:----------:|:---------:|:--------:|:--------:|
 [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[solve-me-first.py](algorithms/solve-me-first.py)|Warmup|Easy|Jun 8 2021<br>(Day 116)|
 [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[plus-minus.py](algorithms/plus-minus.py)|Warmup|Easy|Jun 9 2021<br>(Day 117)|
+[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[simple-array-sum.py](algorithms/simple-array-sum.py)|Warmup|Easy|Jun 10 2021<br>(Day 118)|
