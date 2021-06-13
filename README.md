@@ -131,3 +131,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[simple-array-sum.py](algorithms/simple-array-sum.py)|Warmup|Easy|Jun 10 2021<br>(Day 118)|
 [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[compare-the-triplets.py](algorithms/compare-the-triplets.py)|Warmup|Easy|Jun 11 2021<br>(Day 119)|
 [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[a-very-big-sum.py](algorithms/a-very-big-sum.py)|Warmup|Easy|Jun 12 2021<br>(Day 120)|
+[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[diagonal-difference.py](algorithms/diagonal-difference.py)|Warmup|Easy|Jun 13 2021<br>(Day 121)|
