@@ -132,4 +132,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[compare-the-triplets.py](algorithms/compare-the-triplets.py)|Warmup|Easy|Jun 11 2021<br>(Day 119)|
 [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[a-very-big-sum.py](algorithms/a-very-big-sum.py)|Warmup|Easy|Jun 12 2021<br>(Day 120)|
 [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[diagonal-difference.py](algorithms/diagonal-difference.py)|Warmup|Easy|Jun 13 2021<br>(Day 121)|
-[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[plus-minus.py](algorithms/plus-minus.py)|Warmup|Easy|Jun 14 2021<br>(Day 122)|
+[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[staircase.py](algorithms/staircase.py)|Warmup|Easy|Jun 14 2021<br>(Day 122)|
