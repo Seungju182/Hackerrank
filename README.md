@@ -133,3 +133,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[a-very-big-sum.py](algorithms/a-very-big-sum.py)|Warmup|Easy|Jun 12 2021<br>(Day 120)|
 [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[diagonal-difference.py](algorithms/diagonal-difference.py)|Warmup|Easy|Jun 13 2021<br>(Day 121)|
 [Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[staircase.py](algorithms/staircase.py)|Warmup|Easy|Jun 14 2021<br>(Day 122)|
+[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[mini-max-sum.py](algorithms/mini-max-sum.py)|Warmup|Easy|Jun 15 2021<br>(Day 123)|
