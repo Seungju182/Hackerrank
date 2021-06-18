@@ -136,3 +136,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[mini-max-sum.py](algorithms/mini-max-sum.py)|Warmup|Easy|Jun 15 2021<br>(Day 123)|
 [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[birthday-cake-candles.py](algorithms/birthday-cake-candles.py)|Warmup|Easy|Jun 16 2021<br>(Day 124)|
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[time-conversion.py](algorithms/time-conversion.py)|Warmup|Easy|Jun 17 2021<br>(Day 125)|
+[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[grading.py](algorithms/grading.py)|Implementation|Easy|Jun 18 2021<br>(Day 126)|
