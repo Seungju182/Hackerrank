@@ -138,3 +138,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[time-conversion.py](algorithms/time-conversion.py)|Warmup|Easy|Jun 17 2021<br>(Day 125)|
 [Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[grading.py](algorithms/grading.py)|Implementation|Easy|Jun 18 2021<br>(Day 126)|
 [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[apple-and-orange.py](algorithms/apple-and-orange.py)|Implementation|Easy|Jun 19 2021<br>(Day 127)|
+[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|[kangaroo.py](algorithms/kangaroo.py)|Implementation|Easy|Jun 20 2021<br>(Day 128)|
