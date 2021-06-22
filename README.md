@@ -140,3 +140,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[apple-and-orange.py](algorithms/apple-and-orange.py)|Implementation|Easy|Jun 19 2021<br>(Day 127)|
 [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|[kangaroo.py](algorithms/kangaroo.py)|Implementation|Easy|Jun 20 2021<br>(Day 128)|
 [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|[between-two-sets.py](algorithms/between-two-sets.py)|Implementation|Easy|Jun 21 2021<br>(Day 129)|
+[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[breaking-best-and-worst-records.py](algorithms/breaking-best-and-worst-records.py)|Implementation|Easy|Jun 22 2021<br>(Day 130)|
