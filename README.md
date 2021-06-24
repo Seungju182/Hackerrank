@@ -142,3 +142,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|[between-two-sets.py](algorithms/between-two-sets.py)|Implementation|Easy|Jun 21 2021<br>(Day 129)|
 [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[breaking-best-and-worst-records.py](algorithms/breaking-best-and-worst-records.py)|Implementation|Easy|Jun 22 2021<br>(Day 130)|
 [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[the-birthday-bar.py](algorithms/the-birthday-bar.py)|Implementation|Easy|Jun 23 2021<br>(Day 131)|
+[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[divisible-sum-pairs.py](algorithms/divisible-sum-pairs.py)|Implementation|Easy|Jun 24 2021<br>(Day 132)|
