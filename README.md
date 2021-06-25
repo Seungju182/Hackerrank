@@ -143,3 +143,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[breaking-best-and-worst-records.py](algorithms/breaking-best-and-worst-records.py)|Implementation|Easy|Jun 22 2021<br>(Day 130)|
 [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[the-birthday-bar.py](algorithms/the-birthday-bar.py)|Implementation|Easy|Jun 23 2021<br>(Day 131)|
 [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[divisible-sum-pairs.py](algorithms/divisible-sum-pairs.py)|Implementation|Easy|Jun 24 2021<br>(Day 132)|
+[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[migratory-birds.py](algorithms/migratory-birds.py)|Implementation|Easy|Jun 25 2021<br>(Day 133)|
