@@ -145,3 +145,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[divisible-sum-pairs.py](algorithms/divisible-sum-pairs.py)|Implementation|Easy|Jun 24 2021<br>(Day 132)|
 [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[migratory-birds.py](algorithms/migratory-birds.py)|Implementation|Easy|Jun 25 2021<br>(Day 133)|
 [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[day-of-the-programmer.py](algorithms/day-of-the-programmer.py)|Implementation|Easy|Jun 26 2021<br>(Day 134)|
+[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)|[bon-appetit.py](algorithms/bon-appetit.py)|Implementation|Easy|Jun 27 2021<br>(Day 135)|
