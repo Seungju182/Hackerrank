@@ -149,3 +149,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Sales by March](https://www.hackerrank.com/challenges/sock-merchant/problem)|[sock-merchant.py](algorithms/sock-merchant.py)|Implementation|Easy|Jun 28 2021<br>(Day 136)|
 [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|[drawing-book.py](algorithms/drawing-book.py)|Implementation|Easy|Jun 29 2021<br>(Day 137)|
 [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)|[counting-valleys.py](algorithms/counting-valleys.py)|Implementation|Easy|Jun 30 2021<br>(Day 138)|
+[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|[electronics-shop.py](algorithms/electronics-shop.py)|Implementation|Easy|Jul 1 2021<br>(Day 139)|
