@@ -153,3 +153,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|[cats-and-a-mouse.py](algorithms/cats-and-a-mouse.py)|Implementation|Easy|Jul 2 2021<br>(Day 140)|
 [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|[picking-numbers.py](algorithms/picking-numbers.py)|Implementation|Easy|Jul 3 2021<br>(Day 141)|
 [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[the-hurdle-race.py](algorithms/the-hurdle-race.py)|Implementation|Easy|Jul 4 2021<br>(Day 142)|
+[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|[designer-pdf-viewer.py](algorithms/designer-pdf-viewer.py)|Implementation|Easy|Jul 5 2021<br>(Day 143)|
