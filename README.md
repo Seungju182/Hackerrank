@@ -154,3 +154,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|[picking-numbers.py](algorithms/picking-numbers.py)|Implementation|Easy|Jul 3 2021<br>(Day 141)|
 [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[the-hurdle-race.py](algorithms/the-hurdle-race.py)|Implementation|Easy|Jul 4 2021<br>(Day 142)|
 [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|[designer-pdf-viewer.py](algorithms/designer-pdf-viewer.py)|Implementation|Easy|Jul 5 2021<br>(Day 143)|
+[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|[utopian-tree.py](algorithms/utopian-tree.py)|Implementation|Easy|Jul 6 2021<br>(Day 144)|
