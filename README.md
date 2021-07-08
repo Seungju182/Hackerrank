@@ -156,3 +156,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|[designer-pdf-viewer.py](algorithms/designer-pdf-viewer.py)|Implementation|Easy|Jul 5 2021<br>(Day 143)|
 [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|[utopian-tree.py](algorithms/utopian-tree.py)|Implementation|Easy|Jul 6 2021<br>(Day 144)|
 [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[angry-professor.py](algorithms/angry-professor.py)|Implementation|Easy|Jul 7 2021<br>(Day 145)|
+[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|[beautiful-days-at-the-movies.py](algorithms/beautiful-days-at-the-movies.py)|Implementation|Easy|Jul 8 2021<br>(Day 146)|
