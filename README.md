@@ -158,3 +158,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[angry-professor.py](algorithms/angry-professor.py)|Implementation|Easy|Jul 7 2021<br>(Day 145)|
 [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|[beautiful-days-at-the-movies.py](algorithms/beautiful-days-at-the-movies.py)|Implementation|Easy|Jul 8 2021<br>(Day 146)|
 [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)|[strange-advertising.py](algorithms/strange-advertising.py)|Implementation|Easy|Jul 9 2021<br>(Day 147)|
+[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[save-the-prisoner.py](algorithms/save-the-prisoner.py)|Implementation|Easy|Jul 10 2021<br>(Day 148)|
