@@ -159,3 +159,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|[beautiful-days-at-the-movies.py](algorithms/beautiful-days-at-the-movies.py)|Implementation|Easy|Jul 8 2021<br>(Day 146)|
 [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)|[strange-advertising.py](algorithms/strange-advertising.py)|Implementation|Easy|Jul 9 2021<br>(Day 147)|
 [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[save-the-prisoner.py](algorithms/save-the-prisoner.py)|Implementation|Easy|Jul 10 2021<br>(Day 148)|
+[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)|[circular-array-rotation.py](algorithms/circular-array-rotation.py)|Implementation|Easy|Jul 11 2021<br>(Day 149)|
