@@ -161,3 +161,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[save-the-prisoner.py](algorithms/save-the-prisoner.py)|Implementation|Easy|Jul 10 2021<br>(Day 148)|
 [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)|[circular-array-rotation.py](algorithms/circular-array-rotation.py)|Implementation|Easy|Jul 11 2021<br>(Day 149)|
 [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)|[permutation-equation.py](algorithms/permutation-equation.py)|Implementation|Easy|Jul 12 2021<br>(Day 150)|
+[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|[jumping-on-the-clouds-revisited.py](algorithms/jumping-on-the-clouds-revisited.py)|Implementation|Easy|Jul 13 2021<br>(Day 151)|
