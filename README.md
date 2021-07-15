@@ -163,3 +163,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)|[permutation-equation.py](algorithms/permutation-equation.py)|Implementation|Easy|Jul 12 2021<br>(Day 150)|
 [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|[jumping-on-the-clouds-revisited.py](algorithms/jumping-on-the-clouds-revisited.py)|Implementation|Easy|Jul 13 2021<br>(Day 151)|
 [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|[find-digits.py](algorithms/find-digits.py)|Implementation|Easy|Jul 14 2021<br>(Day 152)|
+[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|[append-and-delete.py](algorithms/append-and-delete.py)|Implementation|Easy|Jul 15 2021<br>(Day 153)|
