@@ -165,3 +165,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|[find-digits.py](algorithms/find-digits.py)|Implementation|Easy|Jul 14 2021<br>(Day 152)|
 [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|[append-and-delete.py](algorithms/append-and-delete.py)|Implementation|Easy|Jul 15 2021<br>(Day 153)|
 [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|[sherlock-and-squares.py](algorithms/sherlock-and-squares.py)|Implementation|Easy|Jul 16 2021<br>(Day 154)|
+[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[library-fine.py](algorithms/library-fine.py)|Implementation|Easy|Jul 17 2021<br>(Day 155)|
