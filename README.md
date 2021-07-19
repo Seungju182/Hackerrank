@@ -167,3 +167,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|[sherlock-and-squares.py](algorithms/sherlock-and-squares.py)|Implementation|Easy|Jul 16 2021<br>(Day 154)|
 [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[library-fine.py](algorithms/library-fine.py)|Implementation|Easy|Jul 17 2021<br>(Day 155)|
 [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[cut-the-sticks.py](algorithms/cut-the-sticks.py)|Implementation|Easy|Jul 18 2021<br>(Day 156)|
+[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[repeated-string.py](algorithms/repeated-string.py)|Implementation|Easy|Jul 19 2021<br>(Day 157)|
