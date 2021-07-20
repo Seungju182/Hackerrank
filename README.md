@@ -168,3 +168,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[library-fine.py](algorithms/library-fine.py)|Implementation|Easy|Jul 17 2021<br>(Day 155)|
 [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[cut-the-sticks.py](algorithms/cut-the-sticks.py)|Implementation|Easy|Jul 18 2021<br>(Day 156)|
 [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[repeated-string.py](algorithms/repeated-string.py)|Implementation|Easy|Jul 19 2021<br>(Day 157)|
+[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[jumping-on-the-clouds.py](algorithms/jumping-on-the-clouds.py)|Implementation|Easy|Jul 20 2021<br>(Day 158)|
