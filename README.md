@@ -169,3 +169,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[cut-the-sticks.py](algorithms/cut-the-sticks.py)|Implementation|Easy|Jul 18 2021<br>(Day 156)|
 [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[repeated-string.py](algorithms/repeated-string.py)|Implementation|Easy|Jul 19 2021<br>(Day 157)|
 [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[jumping-on-the-clouds.py](algorithms/jumping-on-the-clouds.py)|Implementation|Easy|Jul 20 2021<br>(Day 158)|
+[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[equality-in-a-array.py](algorithms/equality-in-a-array.py)|Implementation|Easy|Jul 21 2021<br>(Day 159)|
