@@ -171,3 +171,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[jumping-on-the-clouds.py](algorithms/jumping-on-the-clouds.py)|Implementation|Easy|Jul 20 2021<br>(Day 158)|
 [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[equality-in-a-array.py](algorithms/equality-in-a-array.py)|Implementation|Easy|Jul 21 2021<br>(Day 159)|
 [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|[acm-icpc-team.py](algorithms/acm-icpc-team.py)|Implementation|Easy|Jul 22 2021<br>(Day 160)|
+[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[taum-and-bday.py](algorithms/taum-and-bday.py)|Implementation|Easy|Jul 23 2021<br>(Day 161)|
