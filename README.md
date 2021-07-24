@@ -172,3 +172,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[equality-in-a-array.py](algorithms/equality-in-a-array.py)|Implementation|Easy|Jul 21 2021<br>(Day 159)|
 [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|[acm-icpc-team.py](algorithms/acm-icpc-team.py)|Implementation|Easy|Jul 22 2021<br>(Day 160)|
 [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[taum-and-bday.py](algorithms/taum-and-bday.py)|Implementation|Easy|Jul 23 2021<br>(Day 161)|
+[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)|[kaprekar-numbers.py](algorithms/kaprekar-numbers.py)|Implementation|Easy|Jul 24 2021<br>(Day 162)|
