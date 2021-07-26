@@ -174,3 +174,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[taum-and-bday.py](algorithms/taum-and-bday.py)|Implementation|Easy|Jul 23 2021<br>(Day 161)|
 [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)|[kaprekar-numbers.py](algorithms/kaprekar-numbers.py)|Implementation|Easy|Jul 24 2021<br>(Day 162)|
 [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|[beautiful-triplets.py](algorithms/beautiful-triplets.py)|Implementation|Easy|Jul 25 2021<br>(Day 163)|
+[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[minimum-distances.py](algorithms/minimum-distances.py)|Implementation|Easy|Jul 26 2021<br>(Day 164)|
