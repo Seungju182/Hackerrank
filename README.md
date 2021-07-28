@@ -176,3 +176,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|[beautiful-triplets.py](algorithms/beautiful-triplets.py)|Implementation|Easy|Jul 25 2021<br>(Day 163)|
 [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[minimum-distances.py](algorithms/minimum-distances.py)|Implementation|Easy|Jul 26 2021<br>(Day 164)|
 [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[halloween-sale.py](algorithms/halloween-sale.py)|Implementation|Easy|Jul 27 2021<br>(Day 165)|
+[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[chocolate-feast.py](algorithms/chocolate-feast.py)|Implementation|Easy|Jul 28 2021<br>(Day 166)|
