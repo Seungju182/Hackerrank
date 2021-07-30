@@ -178,3 +178,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[halloween-sale.py](algorithms/halloween-sale.py)|Implementation|Easy|Jul 27 2021<br>(Day 165)|
 [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[chocolate-feast.py](algorithms/chocolate-feast.py)|Implementation|Easy|Jul 28 2021<br>(Day 166)|
 [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)|[service-lane.py](algorithms/service-lane.py)|Implementation|Easy|Jul 29 2021<br>(Day 167)|
+[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|[lisa-workbook.py](algorithms/lisa-workbook.py)|Implementation|Easy|Jul 30 2021<br>(Day 168)|
