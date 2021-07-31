@@ -179,3 +179,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[chocolate-feast.py](algorithms/chocolate-feast.py)|Implementation|Easy|Jul 28 2021<br>(Day 166)|
 [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)|[service-lane.py](algorithms/service-lane.py)|Implementation|Easy|Jul 29 2021<br>(Day 167)|
 [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|[lisa-workbook.py](algorithms/lisa-workbook.py)|Implementation|Easy|Jul 30 2021<br>(Day 168)|
+[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|[flatland-space-stations.py](algorithms/flatland-space-stations.py)|Implementation|Easy|Jul 31 2021<br>(Day 169)|
