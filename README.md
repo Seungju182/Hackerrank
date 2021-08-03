@@ -182,3 +182,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|[flatland-space-stations.py](algorithms/flatland-space-stations.py)|Implementation|Easy|Jul 31 2021<br>(Day 169)|
 [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)|[fair-rations.py](algorithms/fair-rations.py)|Implementation|Easy|Aug 1 2021<br>(Day 170)|
 [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|[cavity-map.py](algorithms/cavity-map.py)|Implementation|Easy|Aug 2 2021<br>(Day 171)|
+[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|[manasa-and-stones.py](algorithms/manasa-and-stones.py)|Implementation|Easy|Aug 3 2021<br>(Day 172)|
