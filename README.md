@@ -186,3 +186,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|[happy-ladybugs.py](algorithms/happy-ladybugs.py)|Implementation|Easy|Aug 4 2021<br>(Day 173)|
 [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)|[strange-code.py](algorithms/strange-code.py)|Implementation|Easy|Aug 5 2021<br>(Day 174)|
 [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|[big-sorting.py](algorithms/big-sorting.py)|Implementation|Easy|Aug 6 2021<br>(Day 175)|
+[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)|[reduced-string.py](algorithms/reduced-string.py)|Implementation|Easy|Aug 7 2021<br>(Day 176)|
