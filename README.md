@@ -185,5 +185,6 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|[manasa-and-stones.py](algorithms/manasa-and-stones.py)|Implementation|Easy|Aug 3 2021<br>(Day 172)|
 [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|[happy-ladybugs.py](algorithms/happy-ladybugs.py)|Implementation|Easy|Aug 4 2021<br>(Day 173)|
 [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)|[strange-code.py](algorithms/strange-code.py)|Implementation|Easy|Aug 5 2021<br>(Day 174)|
-[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|[big-sorting.py](algorithms/big-sorting.py)|Implementation|Easy|Aug 6 2021<br>(Day 175)|
-[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)|[reduced-string.py](algorithms/reduced-string.py)|Implementation|Easy|Aug 7 2021<br>(Day 176)|
+[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|[big-sorting.py](algorithms/big-sorting.py)|Sorting|Easy|Aug 6 2021<br>(Day 175)|
+[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)|[reduced-string.py](algorithms/reduced-string.py)|Strings|Easy|Aug 7 2021<br>(Day 176)|
+[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[tutorial-intro.py](algorithms/tutorial-intro.py)|Sorting|Easy|Aug 8 2021<br>(Day 177)|
