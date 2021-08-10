@@ -189,3 +189,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)|[reduced-string.py](algorithms/reduced-string.py)|Strings|Easy|Aug 7 2021<br>(Day 176)|
 [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[tutorial-intro.py](algorithms/tutorial-intro.py)|Sorting|Easy|Aug 8 2021<br>(Day 177)|
 [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|[camelcase.py](algorithms/camelcase.py)|Strings|Easy|Aug 9 2021<br>(Day 178)|
+[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|[insertionsort1.py](algorithms/insertionsort1.py)|Sorting|Easy|Aug 10 2021<br>(Day 179)|
