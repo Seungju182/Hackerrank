@@ -191,3 +191,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|[camelcase.py](algorithms/camelcase.py)|Strings|Easy|Aug 9 2021<br>(Day 178)|
 [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|[insertionsort1.py](algorithms/insertionsort1.py)|Sorting|Easy|Aug 10 2021<br>(Day 179)|
 [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[strong-password.py](algorithms/strong-password.py)|Strings|Easy|Aug 11 2021<br>(Day 180)|
+[Two Characters](https://www.hackerrank.com/challenges/two-characters/problem)|[two-characters.py](algorithms/two-characters.py)|Strings|Easy|Aug 12 2021<br>(Day 181)|
