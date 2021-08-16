@@ -195,3 +195,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)|[insertionsort2.py](algorithms/insertionsort2.py)|Sorting|Easy|Aug 13 2021<br>(Day 182)|
 [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|[correctness-invariant.py](algorithms/correctness-invariant.py)|Sorting|Easy|Aug 14 2021<br>(Day 183)|
 [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|[caesar-cipher-1.py](algorithms/caesar-cipher-1.py)|Strings|Easy|Aug 15 2021<br>(Day 184)|
+[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)|[mars-exploration.py](algorithms/mars-exploration.py)|Strings|Easy|Aug 16 2021<br>(Day 185)|
