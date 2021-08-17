@@ -197,3 +197,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|[caesar-cipher-1.py](algorithms/caesar-cipher-1.py)|Strings|Easy|Aug 15 2021<br>(Day 184)|
 [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)|[mars-exploration.py](algorithms/mars-exploration.py)|Strings|Easy|Aug 16 2021<br>(Day 185)|
 [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|[runningtime.py](algorithms/runningtime.py)|Sorting|Easy|Aug 17 2021<br>(Day 186)|
+[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)|[hackerrank-in-a-string.py](algorithms/hackerrank-in-a-string.py)|Strings|Easy|Aug 18 2021<br>(Day 187)|
