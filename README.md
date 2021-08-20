@@ -199,3 +199,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|[runningtime.py](algorithms/runningtime.py)|Sorting|Easy|Aug 17 2021<br>(Day 186)|
 [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)|[hackerrank-in-a-string.py](algorithms/hackerrank-in-a-string.py)|Strings|Easy|Aug 18 2021<br>(Day 187)|
 [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|[quicksort1.py](algorithms/quicksort1.py)|Sorting|Easy|Aug 19 2021<br>(Day 188)|
+[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[pangrams.py](algorithms/pangrams.py)|Strings|Easy|Aug 20 2021<br>(Day 189)|
