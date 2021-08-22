@@ -201,3 +201,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|[quicksort1.py](algorithms/quicksort1.py)|Sorting|Easy|Aug 19 2021<br>(Day 188)|
 [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[pangrams.py](algorithms/pangrams.py)|Strings|Easy|Aug 20 2021<br>(Day 189)|
 [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|[weighted-uniform-string.py](algorithms/weighted-uniform-string.py)|Strings|Easy|Aug 21 2021<br>(Day 190)|
+[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)|[separate-the-numbers.py](algorithms/separate-the-numbers.py)|Strings|Easy|Aug 22 2021<br>(Day 191)|
