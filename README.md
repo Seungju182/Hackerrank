@@ -202,3 +202,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[pangrams.py](algorithms/pangrams.py)|Strings|Easy|Aug 20 2021<br>(Day 189)|
 [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|[weighted-uniform-string.py](algorithms/weighted-uniform-string.py)|Strings|Easy|Aug 21 2021<br>(Day 190)|
 [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)|[separate-the-numbers.py](algorithms/separate-the-numbers.py)|Strings|Easy|Aug 22 2021<br>(Day 191)|
+[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)|[funny-string.py](algorithms/funny-string.py)|Strings|Easy|Aug 23 2021<br>(Day 192)|
