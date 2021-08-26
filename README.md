@@ -205,3 +205,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Funny String](https://www.hackerrank.com/challenges/funny-string/problem)|[funny-string.py](algorithms/funny-string.py)|Strings|Easy|Aug 23 2021<br>(Day 192)|
 [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|[countingsort1.py](algorithms/countingsort1.py)|Sorting|Easy|Aug 24 2021<br>(Day 193)|
 [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)|[countingsort2.py](algorithms/countingsort2.py)|Sorting|Easy|Aug 25 2021<br>(Day 194)|
+[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)|[gem-stones.py](algorithms/gem-stones.py)|Strings|Easy|Aug 26 2021<br>(Day 195)|
