@@ -207,3 +207,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)|[countingsort2.py](algorithms/countingsort2.py)|Sorting|Easy|Aug 25 2021<br>(Day 194)|
 [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)|[gem-stones.py](algorithms/gem-stones.py)|Strings|Easy|Aug 26 2021<br>(Day 195)|
 [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)|[alternating-characters.py](algorithms/alternating-characters.py)|Strings|Easy|Aug 27 2021<br>(Day 196)|
+[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)|[beautiful-binary-string.py](algorithms/beautiful-binary-string.py)|Strings|Easy|Aug 28 2021<br>(Day 197)|
