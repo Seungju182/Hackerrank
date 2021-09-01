@@ -211,3 +211,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|[closest-numbers.py](algorithms/closest-numbers.py)|Sorting|Easy|Aug 29 2021<br>(Day 198)|
 [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[the-love-letter-mystery.py](algorithms/the-love-letter-mystery.py)|Strings|Easy|Aug 30 2021<br>(Day 199)|
 [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|[find-the-median.py](algorithms/find-the-median.py)|Sorting|Easy|Aug 31 2021<br>(Day 200)|
+[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)|[palindrome-index.py](algorithms/palindrome-index.py)|Strings|Easy|Sep 1 2021<br>(Day 201)|
