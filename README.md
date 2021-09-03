@@ -213,3 +213,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|[find-the-median.py](algorithms/find-the-median.py)|Sorting|Easy|Aug 31 2021<br>(Day 200)|
 [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)|[palindrome-index.py](algorithms/palindrome-index.py)|Strings|Easy|Sep 1 2021<br>(Day 201)|
 [Anagram](https://www.hackerrank.com/challenges/anagram/problem)|[anagram.py](algorithms/anagram.py)|Strings|Easy|Sep 2 2021<br>(Day 202)|
+[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)|[making-anagrams.py](algorithms/making-anagrams.py)|Strings|Easy|Sep 3 2021<br>(Day 203)|
