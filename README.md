@@ -218,3 +218,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|[two-strings.py](algorithms/two-strings.py)|Strings|Easy|Sep 5 2021<br>(Day 205)|
 [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|[string-construction.py](algorithms/string-construction.py)|Strings|Easy|Sep 6 2021<br>(Day 206)|
 [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[icecream-parlor.py](algorithms/icecream-parlor.py)|Search|Easy|Sep 7 2021<br>(Day 207)|
+[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|[missing-numbers.py](algorithms/missing-numbers.py)|Search|Easy|Sep 8 2021<br>(Day 208)|
