@@ -217,3 +217,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Game of Thrones - 1](https://www.hackerrank.com/challenges/game-of-thrones/problem)|[game-of-thrones.py](algorithms/game-of-thrones.py)|Strings|Easy|Sep 4 2021<br>(Day 204)|
 [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|[two-strings.py](algorithms/two-strings.py)|Strings|Easy|Sep 5 2021<br>(Day 205)|
 [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|[string-construction.py](algorithms/string-construction.py)|Strings|Easy|Sep 6 2021<br>(Day 206)|
+[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[icecream-parlor.py](algorithms/icecream-parlor.py)|Search|Easy|Sep 7 2021<br>(Day 207)|
