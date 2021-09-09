@@ -219,3 +219,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|[string-construction.py](algorithms/string-construction.py)|Strings|Easy|Sep 6 2021<br>(Day 206)|
 [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[icecream-parlor.py](algorithms/icecream-parlor.py)|Search|Easy|Sep 7 2021<br>(Day 207)|
 [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|[missing-numbers.py](algorithms/missing-numbers.py)|Search|Easy|Sep 8 2021<br>(Day 208)|
+[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[sherlock-and-array.py](algorithms/sherlock-and-array.py)|Search|Easy|Sep 9 2021<br>(Day 209)|
