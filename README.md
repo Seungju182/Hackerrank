@@ -221,3 +221,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|[missing-numbers.py](algorithms/missing-numbers.py)|Search|Easy|Sep 8 2021<br>(Day 208)|
 [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[sherlock-and-array.py](algorithms/sherlock-and-array.py)|Search|Easy|Sep 9 2021<br>(Day 209)|
 [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[minimum-absolute-difference-in-an-array.py](algorithms/minimum-absolute-difference-in-an-array.py)|Greedy|Easy|Sep 10 2021<br>(Day 210)|
+[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|[marcs-cakewalk.py](algorithms/marcs-cakewalk.py)|Greedy|Easy|Sep 11 2021<br>(Day 211)|
