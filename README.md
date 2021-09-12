@@ -223,3 +223,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[minimum-absolute-difference-in-an-array.py](algorithms/minimum-absolute-difference-in-an-array.py)|Greedy|Easy|Sep 10 2021<br>(Day 210)|
 [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|[marcs-cakewalk.py](algorithms/marcs-cakewalk.py)|Greedy|Easy|Sep 11 2021<br>(Day 211)|
 [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem)|[grid-challenge.py](algorithms/grid-challenge.py)|Greedy|Easy|Sep 12 2021<br>(Day 212)|
+[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|[luck-balance.py](algorithms/luck-balance.py)|Greedy|Easy|Sep 13 2021<br>(Day 213)|
