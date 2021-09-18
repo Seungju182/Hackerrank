@@ -228,3 +228,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)|[beautiful-pairs.py](algorithms/beautiful-pairs.py)|Greedy|Easy|Sep 15 2021<br>(Day 215)|
 [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|[sherlock-and-the-beast.py](algorithms/sherlock-and-the-beast.py)|Greedy|Easy|Sep 16 2021<br>(Day 216)|
 [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|[priyanka-and-toys.py](algorithms/priyanka-and-toys.py)|Greedy|Easy|Sep 17 2021<br>(Day 217)|
+[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|[largest-permutation.py](algorithms/largest-permutation.py)|Greedy|Easy|Sep 18 2021<br>(Day 218)|
