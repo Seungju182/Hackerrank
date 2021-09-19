@@ -229,3 +229,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|[sherlock-and-the-beast.py](algorithms/sherlock-and-the-beast.py)|Greedy|Easy|Sep 16 2021<br>(Day 216)|
 [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|[priyanka-and-toys.py](algorithms/priyanka-and-toys.py)|Greedy|Easy|Sep 17 2021<br>(Day 217)|
 [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|[largest-permutation.py](algorithms/largest-permutation.py)|Greedy|Easy|Sep 18 2021<br>(Day 218)|
+[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[mark-and-toys.py](algorithms/mark-and-toys.py)|Greedy|Easy|Sep 19 2021<br>(Day 219)|
