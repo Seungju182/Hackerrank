@@ -230,3 +230,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|[priyanka-and-toys.py](algorithms/priyanka-and-toys.py)|Greedy|Easy|Sep 17 2021<br>(Day 217)|
 [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|[largest-permutation.py](algorithms/largest-permutation.py)|Greedy|Easy|Sep 18 2021<br>(Day 218)|
 [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[mark-and-toys.py](algorithms/mark-and-toys.py)|Greedy|Easy|Sep 19 2021<br>(Day 219)|
+[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|[jim-and-the-orders.py](algorithms/jim-and-the-orders.py)|Greedy|Easy|Sep 20 2021<br>(Day 220)|
