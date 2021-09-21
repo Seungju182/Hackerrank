@@ -231,3 +231,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|[largest-permutation.py](algorithms/largest-permutation.py)|Greedy|Easy|Sep 18 2021<br>(Day 218)|
 [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[mark-and-toys.py](algorithms/mark-and-toys.py)|Greedy|Easy|Sep 19 2021<br>(Day 219)|
 [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|[jim-and-the-orders.py](algorithms/jim-and-the-orders.py)|Greedy|Easy|Sep 20 2021<br>(Day 220)|
+[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)|[two-arrays.py](algorithms/two-arrays.py)|Greedy|Easy|Sep 21 2021<br>(Day 221)|
