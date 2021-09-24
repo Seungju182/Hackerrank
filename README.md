@@ -235,3 +235,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)|[two-arrays.py](algorithms/two-arrays.py)|Greedy|Easy|Sep 21 2021<br>(Day 221)|
 [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|[lonely-integer.py](algorithms/lonely-integer.py)|Bit Manipulation|Easy|Sep 22 2021<br>(Day 222)|
 [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|[maximizing-xor.py](algorithms/maximizing-xor.py)|Bit Manipulation|Easy|Sep 23 2021<br>(Day 223)|
+[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|[sum-vs-xor.py](algorithms/sum-vs-xor.py)|Bit Manipulation|Easy|Sep 24 2021<br>(Day 224)|
