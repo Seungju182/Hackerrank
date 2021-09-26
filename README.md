@@ -237,3 +237,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|[maximizing-xor.py](algorithms/maximizing-xor.py)|Bit Manipulation|Easy|Sep 23 2021<br>(Day 223)|
 [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|[sum-vs-xor.py](algorithms/sum-vs-xor.py)|Bit Manipulation|Easy|Sep 24 2021<br>(Day 224)|
 [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|[flipping-bits.py](algorithms/flipping-bits.py)|Bit Manipulation|Easy|Sep 25 2021<br>(Day 225)|
+[Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)|[game-of-stones-1.py](algorithms/game-of-stones-1.py)|Game Theory|Easy|Sep 26 2021<br>(Day 226)|
