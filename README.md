@@ -238,3 +238,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|[sum-vs-xor.py](algorithms/sum-vs-xor.py)|Bit Manipulation|Easy|Sep 24 2021<br>(Day 224)|
 [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|[flipping-bits.py](algorithms/flipping-bits.py)|Bit Manipulation|Easy|Sep 25 2021<br>(Day 225)|
 [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)|[game-of-stones-1.py](algorithms/game-of-stones-1.py)|Game Theory|Easy|Sep 26 2021<br>(Day 226)|
+[Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)|[tower-breakers-1.py](algorithms/tower-breakers-1.py)|Game Theory|Easy|Sep 27 2021<br>(Day 227)|
