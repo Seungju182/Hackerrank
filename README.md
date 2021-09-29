@@ -240,3 +240,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)|[game-of-stones-1.py](algorithms/game-of-stones-1.py)|Game Theory|Easy|Sep 26 2021<br>(Day 226)|
 [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)|[tower-breakers-1.py](algorithms/tower-breakers-1.py)|Game Theory|Easy|Sep 27 2021<br>(Day 227)|
 [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem)|[a-chessboard-game-1.py](algorithms/a-chessboard-game-1.py)|Game Theory|Easy|Sep 28 2021<br>(Day 228)|
+[Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem)|[nim-game-1.py](algorithms/nim-game-1.py)|Game Theory|Easy|Sep 29 2021<br>(Day 229)|
