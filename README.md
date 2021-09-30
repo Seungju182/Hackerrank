@@ -241,3 +241,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)|[tower-breakers-1.py](algorithms/tower-breakers-1.py)|Game Theory|Easy|Sep 27 2021<br>(Day 227)|
 [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem)|[a-chessboard-game-1.py](algorithms/a-chessboard-game-1.py)|Game Theory|Easy|Sep 28 2021<br>(Day 228)|
 [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem)|[nim-game-1.py](algorithms/nim-game-1.py)|Game Theory|Easy|Sep 29 2021<br>(Day 229)|
+[Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1/problem)|[misere-nim-1.py](algorithms/misere-nim-1.py)|Game Theory|Easy|Sep 30 2021<br>(Day 230)|
