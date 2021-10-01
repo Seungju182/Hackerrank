@@ -242,3 +242,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem)|[a-chessboard-game-1.py](algorithms/a-chessboard-game-1.py)|Game Theory|Easy|Sep 28 2021<br>(Day 228)|
 [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem)|[nim-game-1.py](algorithms/nim-game-1.py)|Game Theory|Easy|Sep 29 2021<br>(Day 229)|
 [Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1/problem)|[misere-nim-1.py](algorithms/misere-nim-1.py)|Game Theory|Easy|Sep 30 2021<br>(Day 230)|
+[Nimble Game](https://www.hackerrank.com/challenges/nimble-game-1/problem)|[nimble-game-1.py](algorithms/nimble-game-1.py)|Game Theory|Easy|Oct 1 2021<br>(Day 231)|
