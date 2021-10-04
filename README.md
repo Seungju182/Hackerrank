@@ -245,3 +245,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Nimble Game](https://www.hackerrank.com/challenges/nimble-game-1/problem)|[nimble-game-1.py](algorithms/nimble-game-1.py)|Game Theory|Easy|Oct 1 2021<br>(Day 231)|
 [Poker Nim](https://www.hackerrank.com/challenges/poker-nim-1/problem)|[poker-nim-1.py](algorithms/poker-nim-1.py)|Game Theory|Easy|Oct 2 2021<br>(Day 232)|
 [XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem)|[strings-xor.py](algorithms/strings-xor.py)|Debugging|Easy|Oct 3 2021<br>(Day 233)|
+[Smart Number](https://www.hackerrank.com/challenges/smart-number/problem)|[smart-number.py](algorithms/smart-number.py)|Debugging|Easy|Oct 4 2021<br>(Day 234)|
