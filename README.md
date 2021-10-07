@@ -248,3 +248,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Smart Number](https://www.hackerrank.com/challenges/smart-number/problem)|[smart-number.py](algorithms/smart-number.py)|Debugging|Easy|Oct 4 2021<br>(Day 234)|
 [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)|[magic-square-forming.py](algorithms/magic-square-forming.py)|Implementation|Medium|Oct 5 2021<br>(Day 235)|
 [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[climbing-the-leaderboard.py](algorithms/climbing-the-leaderboard.py)|Implementation|Medium|Oct 6 2021<br>(Day 236)|
+[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[extra-long-factorials.py](algorithms/extra-long-factorials.py)|Implementation|Medium|Oct 7 2021<br>(Day 237)|
