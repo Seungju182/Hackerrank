@@ -1,4 +1,3 @@
-[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|[lonely-integer.py](algorithms/lonely-integer.py)|Bit Manipulation|Easy|Sep 22 2021<br>(Day 222)|
 # Hackerrank
 Repository for my hackerrank solutions  
 
