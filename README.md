@@ -248,3 +248,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)|[magic-square-forming.py](algorithms/magic-square-forming.py)|Implementation|Medium|Oct 5 2021<br>(Day 235)|
 [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[climbing-the-leaderboard.py](algorithms/climbing-the-leaderboard.py)|Implementation|Medium|Oct 6 2021<br>(Day 236)|
 [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[extra-long-factorials.py](algorithms/extra-long-factorials.py)|Implementation|Medium|Oct 7 2021<br>(Day 237)|
+[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|[non-divisible-subset.py](algorithms/non-divisible-subset.py)|Implementation|Medium|Oct 8 2021<br>(Day 238)|
