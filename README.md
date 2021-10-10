@@ -250,3 +250,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[extra-long-factorials.py](algorithms/extra-long-factorials.py)|Implementation|Medium|Oct 7 2021<br>(Day 237)|
 [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|[non-divisible-subset.py](algorithms/non-divisible-subset.py)|Implementation|Medium|Oct 8 2021<br>(Day 238)|
 [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)|[queens-attack-2.py](algorithms/queens-attack-2.py)|Implementation|Medium|Oct 9 2021<br>(Day 239)|
+[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|[organizing-containers-of-balls.py](algorithms/organizing-containers-of-balls.py)|Implementation|Medium|Oct 10 2021<br>(Day 240)|
