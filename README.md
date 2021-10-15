@@ -252,3 +252,8 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)|[queens-attack-2.py](algorithms/queens-attack-2.py)|Implementation|Medium|Oct 9 2021<br>(Day 239)|
 [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|[organizing-containers-of-balls.py](algorithms/organizing-containers-of-balls.py)|Implementation|Medium|Oct 10 2021<br>(Day 240)|
 [Encryption](https://www.hackerrank.com/challenges/encryption/problem)|[encryption.py](algorithms/encryption.py)|Implementation|Medium|Oct 11 2021<br>(Day 241)|
+
+# Data Structures
+| Challenge | Solution | Subdomain | Difficulty | Submission Date |
+|:---------:|:----------:|:---------:|:--------:|:--------:|
+[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|[arrays-ds.py](data_structures/arrays-ds.py)|Arrays|Easy|Oct 15 2021<br>(Day 242)|
