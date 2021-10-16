@@ -257,3 +257,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 | Challenge | Solution | Subdomain | Difficulty | Submission Date |
 |:---------:|:----------:|:---------:|:--------:|:--------:|
 [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|[arrays-ds.py](data_structures/arrays-ds.py)|Arrays|Easy|Oct 15 2021<br>(Day 242)|
+[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)|[2d-array.py](data_structures/2d-array.py)|Arrays|Easy|Oct 16 2021<br>(Day 243)|
