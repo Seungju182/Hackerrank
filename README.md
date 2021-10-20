@@ -260,4 +260,5 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)|[2d-array.py](data_structures/2d-array.py)|Arrays|Easy|Oct 16 2021<br>(Day 243)|
 [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)|[dynamic-array.py](data_structures/dynamic-array.py)|Arrays|Easy|Oct 17 2021<br>(Day 244)|
 [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[array-left-rotation.py](data_structures/array-left-rotation.py)|Arrays|Easy|Oct 18 2021<br>(Day 245)|
-[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|[sparse-arrays.py](data_structures/sparse-arrays.py)|Arrays|Easy|Oct 19 2021<br>(Day 246)|
+[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|[sparse-arrays.py](data_structures/sparse-arrays.py)|Arrays|Medium|Oct 19 2021<br>(Day 246)|
+[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|[crush.py](data_structures/crush.py)|Arrays|Hard|Oct 20 2021<br>(Day 247)|
