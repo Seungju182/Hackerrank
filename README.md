@@ -263,3 +263,4 @@ This is part of my `everyday coding challenge`. This repository will be updated 
 [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|[sparse-arrays.py](data_structures/sparse-arrays.py)|Arrays|Medium|Oct 19 2021<br>(Day 246)|
 [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|[crush.py](data_structures/crush.py)|Arrays|Hard|Oct 20 2021<br>(Day 247)|
 [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)|[print-the-elements-of-a-linked-list.py](data_structures/print-the-elements-of-a-linked-list.py)|Linked Lists|Easy|Oct 21 2021<br>(Day 248)|
+[Insert a Node at the Tail of Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)|[insert-a-node-at-the-tail-of-a-linked-list.py](data_structures/insert-a-node-at-the-tail-of-a-linked-list.py)|Linked Lists|Easy|Oct 25 2021<br>(Day 249)|
